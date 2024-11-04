@@ -21,7 +21,7 @@ I'm a developer with experience in various technologies and programming language
 
 ### 🌐 Find Me On:
 
-- [Gmail](eli.suligoy@gmail.com)
+- eli.suligoy@gmail.com
 
 ---
 
